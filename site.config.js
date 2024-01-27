@@ -4,18 +4,18 @@ const CONFIG = {
     name: "Seongbin Cho",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Software Engineer",
-    bio: "I stand next to an engine so that it makes me an enginear..",
+    bio: "I stand next to an engine so that it makes me an enginear.",
     email: "chobobdev@gmail.com",
     linkedin: "seongbin-cho",
     github: "chobobdev",
     instagram: "",
   },
-  projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
-  ],
+  // projects: [
+  //   {
+  //     name: `morethan-log`,
+  //     href: "https://github.com/morethanmin/morethan-log",
+  //   },
+  // ],
   // blog setting (required)
   blog: {
     title: "cho-log",
