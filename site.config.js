@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Seongbin Cho",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/cho-log.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Software Engineer",
     bio: "I stand next to an engine so that it makes me an enginear.",
     email: "chobobdev@gmail.com",
@@ -10,12 +10,6 @@ const CONFIG = {
     github: "chobobdev",
     instagram: "",
   },
-  projects: [
-    {
-      name: `gluesql`,
-      href: "https://github.com/gluesql/gluesql",
-    },
-  ],
   // blog setting (required)
   blog: {
     title: "cho-log",
